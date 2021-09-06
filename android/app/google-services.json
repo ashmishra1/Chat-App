@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "525532560108",
+    "project_id": "bingoo-3d017",
+    "storage_bucket": "bingoo-3d017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525532560108:android:72909dfd11b993af8a43c9",
+        "android_client_info": {
+          "package_name": "com.example.bingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525532560108-bpd4frrr54c20m81a4lqclvodd45dir1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bingo",
+            "certificate_hash": "3f2d53b17546549edb350409b3e65a68c4ca9b35"
+          }
+        },
+        {
+          "client_id": "525532560108-lrk8mb6vdhku8jid0d88vgivfafmtqm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOKdVAGauyPNHH7jhvs6aNOj18Xtk2kZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525532560108-lrk8mb6vdhku8jid0d88vgivfafmtqm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525532560108:android:3701a6cb3dc5795d8a43c9",
+        "android_client_info": {
+          "package_name": "com.example.bingoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525532560108-lrk8mb6vdhku8jid0d88vgivfafmtqm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOKdVAGauyPNHH7jhvs6aNOj18Xtk2kZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525532560108-lrk8mb6vdhku8jid0d88vgivfafmtqm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
